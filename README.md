@@ -1,2 +1,3 @@
-# bedrock-credentials-vocabs
+# bedrock-credential-vocabs
+
 Semantic web vocabularies for processing credentials.
