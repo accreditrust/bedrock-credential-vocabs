@@ -1,0 +1,32 @@
+{
+  "name": "bedrock-credential-vocabs",
+  "version": "0.0.1-dev",
+  "description": "Bedrock Credential Vocabularies",
+  "main": "./lib/vocabs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-credential-vocabs"
+  },
+  "keywords": [
+    "bedrock",
+    "credentials"
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-credential-vocabs/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-credential-vocabs",
+  "dependencies": {},
+  "peerDependencies": {
+    "bedrock": "^1.0.0",
+    "bedrock-express": "^1.0.0",
+    "bedrock-views": "^1.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
